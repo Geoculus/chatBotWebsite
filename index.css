@@ -99,27 +99,3 @@ button {
 button:hover {
     background-color: #2980b9; /* Darker blue on hover */
 }
-
-.chatbox-bg {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #3498db; /* Blue for chatbox background */
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background-color 0.3s ease;
-}
-
-.chatbox-img {
-    width: 50%;
-}
-
-.chatbox-bg:hover {
-    background-color: #2980b9; /* Darker blue on hover */
-}
